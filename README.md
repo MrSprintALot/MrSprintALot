@@ -58,7 +58,7 @@ Me enfoco en convertir datos en decisiones usando **Python, SQL y BI**. Me gusta
 ---
 
 ## 🤝 Contacto
-- Escribe a **rafaelgiancarlo@gmail.com** (cámbialo por tu correo)  
+- Escribe a **rafaelgiancarlo@gmail.com**  
 - LinkedIn: **[tu-url](https://www.linkedin.com/in/rafovas/)**  
 - Abierto a roles **Data Analyst / Business Analyst** (US remoto/onsite)
 
