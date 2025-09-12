@@ -1,6 +1,6 @@
 <!-- Badges arriba: cambia los enlaces a los tuyos -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafovas)
-[![Email](https://img.shields.io/badge/Email-rafov@example.com-1?logo=gmail&logoColor=white&labelColor=EA4335&color=555)](mailto:rafaelgiancarlo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rafaelgiancarlo@gmail.com-1?logo=gmail&logoColor=white&labelColor=EA4335&color=555)](mailto:rafaelgiancarlo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?logo=vercel&logoColor=white)]([https://github.com/MrSprintALot?tab=repositories](https://github.com/MrSprintALot?tab=repositories))
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-yes-2ea44f)
 
