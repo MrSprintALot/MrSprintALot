@@ -12,6 +12,19 @@ Me enfoco en convertir datos en decisiones usando **Python, SQL y BI**. Me gusta
 ---
 
 ## 🚀 Proyectos destacados
+
+- **E-Commerce Customer Support – CSAT & Tiempos de respuesta (Python)**  
+  Analicé 85K+ interacciones de soporte para entender qué canales, turnos y tenencia de agentes impulsan **CSAT** y tiempos de respuesta.  
+  **KPIs/Gráficas:** CSAT por canal · Top categorías · Tiempo de respuesta vs CSAT  
+  ▶️ **Repo:** [Ecommerce_Customer_Support_Analysis](https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-)  
+  <img src="https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-/blob/main/csat_by_channel.png?raw=1" alt="CSAT por canal" width="520"/>
+
+- **Marketing Response Model – Predicting Offer Acceptance (Python + scikit-learn)**  
+  Modelo de clasificación baseline para priorizar clientes con mayor probabilidad de aceptar una oferta.  
+  **Resultados:** AUC **0.895**, Accuracy **0.888**, Precision **0.707**, Recall **0.433**  
+  ▶️ **Repo:** [Marketing-Response-Model](https://github.com/MrSprintALot/Marketing-Response-Model-)  
+  <img src="https://github.com/MrSprintALot/Marketing-Response-Model-/blob/main/marketing_roc_curve.png?raw=1" alt="ROC Curve" width="520"/>
+
 - **EDA interactiva de autos usados (Streamlit + Plotly)**  
   App para explorar drivers de precio (odómetro, condición, año).  
   ▶️ **Demo:** https://analisis-autos-usados.onrender.com · 📦 Repo: [analisis-autos-usados](https://github.com/MrSprintALot/analisis-autos-usados)
@@ -58,8 +71,8 @@ Me enfoco en convertir datos en decisiones usando **Python, SQL y BI**. Me gusta
 ---
 
 ## 🤝 Contacto
-- Escribe a **rafaelgiancarlo@gmail.com**  
-- LinkedIn: **[rafovas](https://www.linkedin.com/in/rafovas/)**  
-- Abierto a roles en inglés **Data Analyst / Business Analyst** (Latan remote / on site)
+- 📧 **rafaelgiancarlo@gmail.com**  
+- 💼 **[LinkedIn – rafovas](https://www.linkedin.com/in/rafovas/)**  
+- 🌎 Abierto a roles **Data Analyst / Business Analyst** (LATAM remote / on-site)
 
 <!-- Sugerencia: añade un Social Preview en Settings del repo para un banner bonito (1200x400). -->
