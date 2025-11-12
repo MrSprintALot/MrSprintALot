@@ -1,4 +1,4 @@
-<!-- Badges arriba: cambia los enlaces a los tuyos -->
+<!-- Badges arriba -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafovas)
 [![Email](https://img.shields.io/badge/Email-rafaelgiancarlo@gmail.com-1?logo=gmail&logoColor=white&labelColor=EA4335&color=555)](mailto:rafaelgiancarlo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?logo=vercel&logoColor=white)]([https://github.com/MrSprintALot?tab=repositories](https://github.com/MrSprintALot?tab=repositories))
@@ -7,44 +7,49 @@
 # 👋 Hola, soy **Rafael Vasquez**  
 **Data Analyst | Business Analytics | BI**
 
-Me enfoco en convertir datos en decisiones usando **Python, SQL y BI**. Me gustan los proyectos con impacto medible y entregables claros (dashboards, notebooks reproducibles y apps ligeras).
+Me enfoco en convertir datos en decisiones usando **Python, SQL y BI**. Me gustan los proyectos con impacto medible y entregables claros: dashboards, notebooks reproducibles y análisis listos para producción.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-- **E-Commerce Customer Support – CSAT & Tiempos de respuesta (Python)**  
-  Analicé 85K+ interacciones de soporte para entender qué canales, turnos y tenencia de agentes impulsan **CSAT** y tiempos de respuesta.  
-  **KPIs/Gráficas:** CSAT por canal · Top categorías · Tiempo de respuesta vs CSAT  
-  ▶️ **Repo:** [Ecommerce_Customer_Support_Analysis](https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-)  
-  <img src="https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-/blob/main/csat_by_channel.png?raw=1" alt="CSAT por canal" width="520"/>
+### 🛒 E-Commerce Customer Support – CSAT & Tiempos de respuesta (Python)
+Analicé **85K+ interacciones** de soporte para entender qué canales, turnos y tenencia de agentes impulsan **CSAT** y tiempos de respuesta.  
+**KPIs:** CSAT por canal · Categorías más frecuentes · Tiempo de respuesta vs satisfacción.  
+📦 **Repo:** [Ecommerce_Customer_Support_Analysis](https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-)
 
-- **Marketing Response Model – Predicting Offer Acceptance (Python + scikit-learn)**  
-  Modelo de clasificación baseline para priorizar clientes con mayor probabilidad de aceptar una oferta.  
-  **Resultados:** AUC **0.895**, Accuracy **0.888**, Precision **0.707**, Recall **0.433**  
-  ▶️ **Repo:** [Marketing-Response-Model](https://github.com/MrSprintALot/Marketing-Response-Model-)  
-  <img src="https://github.com/MrSprintALot/Marketing-Response-Model-/blob/main/marketing_roc_curve.png?raw=1" alt="ROC Curve" width="520"/>
+---
 
-- **EDA interactiva de autos usados (Streamlit + Plotly)**  
-  App para explorar drivers de precio (odómetro, condición, año).  
-  ▶️ **Demo:** https://analisis-autos-usados.onrender.com · 📦 Repo: [analisis-autos-usados](https://github.com/MrSprintALot/analisis-autos-usados)
+### 📣 Marketing Response Model – Predicting Offer Acceptance (Python + scikit-learn)
+Modelo de clasificación baseline para priorizar clientes con mayor probabilidad de aceptar una oferta.  
+**Resultados:** AUC **0.895**, Accuracy **0.888**, Precision **0.707**, Recall **0.433**  
+📦 **Repo:** [Marketing-Response-Model](https://github.com/MrSprintALot/Marketing-Response-Model-)
 
+---
+
+### 🚗 EDA interactiva de autos usados (Streamlit + Plotly)
+App para explorar los **drivers de precio** (odómetro, condición, año).  
+▶️ **Demo:** https://analisis-autos-usados.onrender.com · 📦 **Repo:** [analisis-autos-usados](https://github.com/MrSprintALot/analisis-autos-usados)
+
+---
+
+### 🧰 Otros proyectos
 - **Python Analytics Playbook** *(en progreso)* – utilidades de EDA, IO y testing.  
 - **SQL Playbook** *(en progreso)* – ventanas, CTEs, KPIs.  
 - **Power BI** y **Tableau** *(en progreso)* – dashboards con one-pagers.
 
-> 💡 En cada repo incluyo: licencia MIT, CI (Ruff/Black/Pytest), README con “Resumen ejecutivo” y capturas.
+> 💡 Cada repo incluye: licencia MIT, CI (Ruff/Black/Pytest), README con “Resumen ejecutivo” y entregables reproducibles.
 
 ---
 
 ## 🧠 Resumen ejecutivo (perfil)
-- **En qué ayudo:** responder preguntas de negocio con datos (pricing, churn, funnel, performance).  
-- **Cómo trabajo:** EDA → features/limpieza → visual/BI → recomendaciones accionables.  
-- **Lo que valoro:** reproducibilidad, claridad de storytelling y métricas que mueven decisiones.
+- **En qué ayudo:** transformar datos en decisiones (pricing, churn, funnel, performance).  
+- **Cómo trabajo:** EDA → limpieza/feature engineering → visualización BI → insights accionables.  
+- **Lo que valoro:** reproducibilidad, claridad narrativa y métricas que generan impacto.
 
 ---
 
-## 🧰 Herramientas
+## 🧰 Stack de herramientas
 **Lenguajes:** Python · SQL · DAX  
 **Librerías:** Pandas · NumPy · Plotly · scikit-learn · Streamlit  
 **BI:** Power BI · Tableau  
@@ -64,7 +69,6 @@ Me enfoco en convertir datos en decisiones usando **Python, SQL y BI**. Me gusta
 ---
 
 ## 📈 Un vistazo
-<!-- Tarjetas de stats (opcionales). Cambian solas con tu actividad. -->
 <img src="https://github-readme-stats.vercel.app/api?username=MrSprintALot&show_icons=true&theme=transparent&hide_title=true" height="140" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSprintALot&layout=compact&theme=transparent&hide_title=true" height="140" />
 
@@ -75,4 +79,4 @@ Me enfoco en convertir datos en decisiones usando **Python, SQL y BI**. Me gusta
 - 💼 **[LinkedIn – rafovas](https://www.linkedin.com/in/rafovas/)**  
 - 🌎 Abierto a roles **Data Analyst / Business Analyst** (LATAM remote / on-site)
 
-<!-- Sugerencia: añade un Social Preview en Settings del repo para un banner bonito (1200x400). -->
+<!-- Sugerencia: añade un Social Preview en Settings del repo para un banner 1200x400 con tus métricas y colores. -->
