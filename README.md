@@ -104,9 +104,11 @@ Objective: develop a scalable, warehouse-ready BI system focused on operational 
 
 ## 📊 Quick Snapshot
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSprintALot&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+## 📊 Quick Snapshot
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSprintALot&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=MrSprintALot&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSprintALot&layout=compact&theme=github_dark&hide_border=true" height="150" />
 
 ---
 
