@@ -9,7 +9,7 @@
 
 I build analytics solutions at the intersection of business and engineering: translating business requirements into scalable data models, semantic layers, and decision-ready dashboards. I work with **advanced SQL, Python, and BI tools** to deliver reproducible, production-oriented analytics.
 
-I also use **AI tools (GenAI/GPT)** to speed up analysis, improve documentation, optimize queries, and enhance analytics workflows—while actively growing toward **BI Engineer** and **AI Engineer** roles.
+I also use **AI tools (GenAI/GPT)** to speed up analysis, improve documentation, optimize queries, and enhance analytics workflows while actively growing toward **BI Engineer** and **AI Engineer** roles.
 
 ---
 
