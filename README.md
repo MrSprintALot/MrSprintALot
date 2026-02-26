@@ -103,14 +103,16 @@ Objective: develop a scalable, warehouse-ready BI system focused on operational 
 ---
 
 ## 📊 Quick Snapshot
-<img src="https://github-readme-stats.vercel.app/api?username=MrSprintALot&show_icons=true&theme=transparent&hide_title=true" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSprintALot&layout=compact&theme=transparent&hide_title=true" height="140" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSprintALot&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSprintALot&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 🤝 Contact
 - 📧 **rafaelgiancarlo@gmail.com**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rafovas/
-- 🌎 Open to **Business Analyst / Analytics Engineer** roles (LATAM remote / on-site)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rafaelvasquez-dataanalyst/
+- 🌎 Open to **Business Analyst / Analytics Engineer** roles (LATAM remote / hybrid)
 
 <!-- Tip: add a Social Preview image in the repo settings (1200x400) for a clean banner. -->
