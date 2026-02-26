@@ -54,10 +54,20 @@ Interactive app to explore price drivers (odometer, condition, year) and underst
 
 ---
 
-## 🧰 Other Work (In Progress)
-- **Python Analytics Playbook** — reusable EDA, IO, testing utilities  
-- **SQL Playbook** — window functions, CTE patterns, KPI queries  
-- **Power BI / Tableau** — dashboard one-pagers and semantic modeling patterns
+## 🚧 Currently Building
+
+### 🚚 3PL Logistics SLA Performance & Analytics (Power BI)
+
+End-to-end analytics engineering project simulating a real 3PL implementation.
+
+Current focus:
+- Designing star-schema data model (fact_deliveries + dimensions)
+- Defining primary reporting date & role-playing date logic
+- Building semantic layer and structured KPI framework
+- Implementing DAX measures for SLA breach rate and carrier performance
+- Creating executive-level dark-mode operations dashboard
+
+Objective: develop a scalable, warehouse-ready BI system focused on operational performance and SLA monitoring.
 
 > Each repo aims to include: clear deliverables, reproducible steps, and documentation that supports decision-making.
 
