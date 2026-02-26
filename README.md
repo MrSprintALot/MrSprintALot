@@ -102,13 +102,11 @@ Objective: develop a scalable, warehouse-ready BI system focused on operational 
 
 ---
 
-## 📊 Quick Snapshot
 
-## 📊 Quick Snapshot
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrSprintALot&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSprintALot&layout=compact&theme=github_dark&hide_border=true" height="150" />
+## 📌 Pinned Highlights
+- 🚚 **3PL Logistics SLA Performance & Analytics (Power BI)** — currently building an end-to-end SLA monitoring system (data modeling + semantic layer + KPI framework)
+- 🛒 **E-Commerce Customer Support Analysis** — CSAT + response-time analytics
+- 📣 **Marketing Response Model** — predictive targeting baseline model
 
 ---
 
