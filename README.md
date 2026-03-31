@@ -78,15 +78,6 @@ Data profiling · missing values · normalization · validation rules
 
 ---
 
-### 🚗 Used Car Price Explorer — Interactive EDA App
-
-Interactive Streamlit app to explore price drivers and market patterns.
-
-▶️ **[Live Demo](https://analisis-autos-usados.onrender.com)**  
-📦 **[Repository](https://github.com/MrSprintALot/analisis-autos-usados)**
-
----
-
 ## 🧠 In One Line
 
 > I identify what’s driving performance issues, quantify their impact, and turn that into clear business decisions.
