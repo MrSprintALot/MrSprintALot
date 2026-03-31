@@ -4,84 +4,88 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Repos-111?logo=github&logoColor=white)](https://github.com/MrSprintALot?tab=repositories)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-yes-2ea44f)
 
-# 👋 Hi, I'm **Rafael Vasquez**
-**Business Analyst | Power Bi • SQL • Data Modeling • AI-Enhanced Workflows**
+# 👋 Hi, I'm Rafael Vasquez
+**Business Analyst · Power BI · SQL · Data Modeling · AI-Enhanced Workflows**
 
-I build analytics solutions at the intersection of business and engineering: translating business requirements into scalable data models, semantic layers, and decision ready dashboards. I work with ** SQL, Python, and BI tools** to deliver reproducible, production oriented analytics.
+I translate business problems into scalable data models, semantic layers, and decision-ready dashboards. I work across the full analytics stack — from requirements and data modeling to DAX, SQL, and executive-grade reporting.
 
-I also use **AI tools (GenAI/Claude)** to speed up analysis, improve documentation, optimize queries, and enhance analytics workflows.
+I actively use **AI tools (Claude/GenAI)** as part of my workflow: accelerating analysis, improving documentation, and building better products faster.
 
 ---
 
 ## 🏗️ Core Capabilities
-- Translating business problems into analytics requirements, KPIs, and data models
-- Designing **dimensional models (star schema)** and analytics-ready datasets
-- Building **semantic layers** for self service analytics (Power BI)
-- Advanced SQL (CTEs, window functions, query optimization, transformations)
-- Automating data workflows with Python and ETL tools
-- Leveraging AI tools to improve analytics efficiency (analysis, documentation, workflow acceleration)
-- Rapid UI prototyping and dashboard layout iteration (Claude + Figma)
+
+- Translating business requirements into KPIs, data models, and analytics solutions
+- Dimensional modeling — star schema, semantic layers, self-service BI (Power BI)
+- Advanced DAX — TREATAS, RANKX, USERELATIONSHIP, time intelligence, 100+ measure libraries
+- Advanced SQL — CTEs, window functions, query optimization, data transformation
+- Python for data cleaning, EDA, and baseline ML models
+- AI-augmented analytics workflows — documentation, query optimization, dashboard iteration
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Customer Support — CSAT & Response Time Analytics (Python + SQL + BI)
-Analyzed **85K+ support interactions** to identify operational bottlenecks, response time inefficiencies, and drivers of customer dissatisfaction.  
-**KPIs:** CSAT by channel · Top issue categories · Response time vs satisfaction · SLA-style monitoring views.  
-📦 **Repo:** [Ecommerce_Customer_Support_Analysis](https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-)
+### 🚚 3PL Logistics SLA Performance Analytics — Power BI
+End-to-end BI solution analyzing SLA breach performance for a LATAM logistics operator across 4 countries, 5 carriers, and 11,821 deliveries.
+
+**What I built:** Star schema (6 tables) · 101 DAX measures in 7 display folders · 2-page executive dashboard with carrier × region heatmap, delay severity distribution, and prescriptive recommendations.
+
+**Key output:** Identified $102K in SLA breach costs, pinpointed PumaCargo × Mexico (23.9%) as the critical failure lane, and quantified ~$45K in recoverable savings.
+
+📊 **[View live dashboard](https://app.powerbi.com/groups/1110f86d-c2eb-400b-ab06-ca85a8440c79/reports/f861b637-8707-4b6f-a378-07101aadbcce/3cdd437ee3073e73d700?experience=power-bi)** · 📦 **[Repo](https://github.com/MrSprintALot/3pl-sla-analytics)**
 
 ---
 
-### 📣 Marketing Response Model — Predicting Offer Acceptance (Python + scikit-learn)
-Baseline classification model to prioritize customers with the highest probability of accepting an offer.  
-**Results:** AUC **0.895**, Accuracy **0.888**, Precision **0.707**, Recall **0.433**  
-Includes a structured pipeline for data cleaning, feature engineering, and model evaluation.  
-📦 **Repo:** [Marketing-Response-Model](https://github.com/MrSprintALot/Marketing-Response-Model-)
+### 🛒 E-Commerce Customer Support — CSAT & Response Time Analytics
+Analyzed 85K+ support interactions to identify operational bottlenecks and drivers of customer dissatisfaction.
+
+**KPIs:** CSAT by channel · Top issue categories · Response time vs satisfaction · SLA-style monitoring views.
+
+📦 **[Repo](https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-)**
 
 ---
 
-### 🧹 Customer Data Cleaning & Preparation — Analytics-Ready Datasets (Python + SQL)
-Processed and standardized raw customer datasets to ensure data quality, consistency, and analytics readiness for downstream reporting and modeling use cases.  
-**Focus:** Profiling · Missing/inconsistent values · Normalization · Validation rules · Structured outputs for analytics consumption.  
-📦 **Repo:** [Customer-Data-Cleaning-and-Preparation](https://github.com/MrSprintALot/Customer-Data-Cleaning-and-Preparation)
+### 📣 Marketing Response Model — Predicting Offer Acceptance
+Baseline classification model to prioritize customers with highest probability of accepting an offer.
+
+**Results:** AUC 0.895 · Accuracy 0.888 · Precision 0.707 · Recall 0.433
+
+📦 **[Repo](https://github.com/MrSprintALot/Marketing-Response-Model-)**
 
 ---
 
-### 🚗 Used Car Price Explorer — Interactive EDA App (Streamlit + Plotly)
-Interactive app to explore price drivers (odometer, condition, year) and understand market patterns.  
-▶️ **Demo:** https://analisis-autos-usados.onrender.com · 📦 **Repo:** [analisis-autos-usados](https://github.com/MrSprintALot/analisis-autos-usados)
+### 🧹 Customer Data Cleaning & Preparation
+Processed and standardized raw customer datasets for downstream reporting and modeling.
+
+**Focus:** Profiling · Missing values · Normalization · Validation rules · Analytics-ready outputs.
+
+📦 **[Repo](https://github.com/MrSprintALot/Customer-Data-Cleaning-and-Preparation)**
 
 ---
 
-## 🚧 Currently Building
+### 🚗 Used Car Price Explorer — Interactive EDA App
+Interactive Streamlit app to explore price drivers (odometer, condition, year) and market patterns.
 
-### 🚚 3PL Logistics SLA Performance & Analytics (Power BI)
-
-End-to-end analytics engineering project simulating a real 3PL implementation.
-
-Objective: develop a scalable, warehouse-ready BI system focused on operational performance and SLA monitoring.
-
-> Each repo aims to include: clear deliverables, reproducible steps, and documentation that supports decision making.
+▶️ **[Live demo](https://analisis-autos-usados.onrender.com)** · 📦 **[Repo](https://github.com/MrSprintALot/analisis-autos-usados)**
 
 ---
 
-## 🧠 Executive Summary
-- **What I do:** turn data into decisions (performance, funnel, churn, operational KPIs)
-- **How I work:** requirements → modeling → transformation → BI → actionable insights
-- **What I value:** reproducibility, clarity, and measurable impact
+## 🧠 In One Line
+
+> I turn data into decisions — performance, funnel, churn, operational KPIs — and I document the reasoning, not just the output.
 
 ---
 
 ## 🧰 Tech Stack
-**Data & Query:** SQL (CTEs, window functions, optimization) · Python · DAX  
-**Modeling:** Star schema · Semantic models  
-**BI:** Power BI · Tableau  
-**Libraries:** Pandas · NumPy · Plotly · scikit-learn · Streamlit  
-**Platforms:** BigQuery · Snowflake · Azure SQL · Databricks  
-**Other:** Git/GitHub · Excel · Jira/DevOps
 
-<!-- Compact badges -->
+**Query & Analytics:** SQL · Python · DAX  
+**Modeling:** Star schema · Semantic models · Power Query (M)  
+**BI & Visualization:** Power BI · Tableau · Plotly · Streamlit  
+**Libraries:** Pandas · NumPy · scikit-learn  
+**Platforms:** BigQuery · Snowflake · Azure SQL · Databricks  
+**Other:** Git/GitHub · Figma · Jira
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" />
@@ -95,17 +99,8 @@ Objective: develop a scalable, warehouse-ready BI system focused on operational 
 
 ---
 
-
-## 📌 Pinned Highlights
-- 🚚 **3PL Logistics SLA Performance & Analytics (Power BI)** — currently building an end-to-end SLA monitoring system (data modeling + semantic layer + KPI framework)
-- 🛒 **E-Commerce Customer Support Analysis** — CSAT + response-time analytics
-- 📣 **Marketing Response Model** — predictive targeting baseline model
-
----
-
 ## 🤝 Contact
-- 📧 **rafaelgiancarlo@gmail.com**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rafaelvasquezba
-- 🌎 Open to **Business Analyst / Technical Business Analyst** roles (LATAM remote / hybrid)
 
-<!-- Tip: add a Social Preview image in the repo settings (1200x400) for a clean banner. -->
+📧 rafaelgiancarlo@gmail.com  
+💼 [linkedin.com/in/rafaelvasquezba](https://www.linkedin.com/in/rafaelvasquezba)  
+🌎 Open to **Business Analyst / BI Analyst** roles — LATAM remote / hybrid
