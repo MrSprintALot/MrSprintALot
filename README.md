@@ -9,7 +9,7 @@
 
 I design data solutions that help businesses understand performance, identify inefficiencies, and make better operational decisions.
 
-I specialize in turning fragmented data into structured models, defining clear KPIs, and delivering executive dashboards that highlight what’s going wrong — and what to do next.
+I specialize in turning fragmented data into structured models, defining clear KPIs, and delivering executive dashboards that highlight what’s going wrong and what to do next.
 
 My work sits at the intersection of business and data: I don’t just build dashboards, I define the logic behind them.
 
@@ -22,7 +22,7 @@ My work sits at the intersection of business and data: I don’t just build dash
 - Building semantic layers and reusable metrics in Power BI  
 - Analyzing performance across operations, sales, and customer funnels  
 - Identifying root causes and quantifying business impact (cost, efficiency, risk)  
-- Bridging stakeholders and technical teams through data-driven solutions  
+- Bridging stakeholders and technical teams through data driven solutions  
 
 ---
 
@@ -30,14 +30,14 @@ My work sits at the intersection of business and data: I don’t just build dash
 
 ### 🚚 3PL Logistics SLA Performance Analytics — Power BI
 
-Designed an end-to-end SLA performance monitoring solution to identify drivers of late deliveries and quantify their financial impact.
+Designed an end to end SLA performance monitoring solution to identify drivers of late deliveries and quantify their financial impact.
 
 **What I built:**  
 Star schema (6 tables) · 100+ DAX measures · 2-page executive dashboard for carrier, region, and service-level performance analysis  
 
 **Business impact:**  
 - Identified **$102K in SLA breach costs**  
-- Isolated **PumaCargo × Mexico (23.9%)** as the highest-risk lane  
+- Isolated **PumaCargo × Mexico (23.9%)** as the highest risk lane  
 - Estimated **~$45K in recoverable savings** by reaching SLA targets  
 
 📊 **[View live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDIwNWJhNzgtYzc4Ni00MGM4LTlkYjgtZjljNTc3NjE2OWRlIiwidCI6ImU3NzBiMDUxLTI5ZjUtNDllYS1hNmQ1LTY1MDJmOWZhYjIyZSJ9)**  
@@ -50,7 +50,7 @@ Star schema (6 tables) · 100+ DAX measures · 2-page executive dashboard for ca
 Analyzed 85K+ support interactions to identify operational bottlenecks and drivers of customer dissatisfaction.
 
 **Focus:**  
-CSAT drivers · response time impact · SLA-style monitoring · issue categorization  
+CSAT drivers · response time impact · SLA style monitoring · issue categorization  
 
 📦 **[Repository](https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-)**
 
@@ -69,7 +69,7 @@ AUC 0.895 · Accuracy 0.888 · Precision 0.707
 
 ### 🧹 Customer Data Cleaning & Preparation
 
-Standardized raw datasets into analytics-ready structures for reporting and modeling.
+Standardized raw datasets into analytics ready structures for reporting and modeling.
 
 **Focus:**  
 Data profiling · missing values · normalization · validation rules  
