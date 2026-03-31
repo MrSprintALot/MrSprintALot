@@ -1,22 +1,22 @@
 <!-- Top badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelvasquez-dataanalyst/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelvasquezba/)
 [![Email](https://img.shields.io/badge/Email-rafaelgiancarlo%40gmail.com-1?logo=gmail&logoColor=white&labelColor=EA4335&color=555)](mailto:rafaelgiancarlo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Repos-111?logo=github&logoColor=white)](https://github.com/MrSprintALot?tab=repositories)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-yes-2ea44f)
 
 # 👋 Hi, I'm **Rafael Vasquez**
-**Business & Analytics Engineer | SQL • Data Modeling • AI-Enhanced Workflows**
+**Business Analyst | Power Bi • SQL • Data Modeling • AI-Enhanced Workflows**
 
-I build analytics solutions at the intersection of business and engineering: translating business requirements into scalable data models, semantic layers, and decision-ready dashboards. I work with **advanced SQL, Python, and BI tools** to deliver reproducible, production-oriented analytics.
+I build analytics solutions at the intersection of business and engineering: translating business requirements into scalable data models, semantic layers, and decision ready dashboards. I work with ** SQL, Python, and BI tools** to deliver reproducible, production oriented analytics.
 
-I also use **AI tools (GenAI/GPT)** to speed up analysis, improve documentation, optimize queries, and enhance analytics workflows while actively growing toward **BI Engineer** and **AI Engineer** roles.
+I also use **AI tools (GenAI/GPT)** to speed up analysis, improve documentation, optimize queries, and enhance analytics workflows.
 
 ---
 
 ## 🏗️ Core Capabilities
 - Translating business problems into analytics requirements, KPIs, and data models
 - Designing **dimensional models (star schema)** and analytics-ready datasets
-- Building **semantic layers** for self-service analytics (Power BI)
+- Building **semantic layers** for self service analytics (Power BI)
 - Advanced SQL (CTEs, window functions, query optimization, transformations)
 - Automating data workflows with Python and ETL tools
 - Leveraging AI tools to improve analytics efficiency (analysis, documentation, workflow acceleration)
@@ -27,7 +27,7 @@ I also use **AI tools (GenAI/GPT)** to speed up analysis, improve documentation,
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Customer Support — CSAT & Response Time Analytics (Python + SQL + BI)
-Analyzed **85K+ support interactions** to identify operational bottlenecks, response-time inefficiencies, and drivers of customer dissatisfaction.  
+Analyzed **85K+ support interactions** to identify operational bottlenecks, response time inefficiencies, and drivers of customer dissatisfaction.  
 **KPIs:** CSAT by channel · Top issue categories · Response time vs satisfaction · SLA-style monitoring views.  
 📦 **Repo:** [Ecommerce_Customer_Support_Analysis](https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-)
 
@@ -60,16 +60,9 @@ Interactive app to explore price drivers (odometer, condition, year) and underst
 
 End-to-end analytics engineering project simulating a real 3PL implementation.
 
-Current focus:
-- Designing star-schema data model (fact_deliveries + dimensions)
-- Defining primary reporting date & role-playing date logic
-- Building semantic layer and structured KPI framework
-- Implementing DAX measures for SLA breach rate and carrier performance
-- Creating executive-level dark-mode operations dashboard
-
 Objective: develop a scalable, warehouse-ready BI system focused on operational performance and SLA monitoring.
 
-> Each repo aims to include: clear deliverables, reproducible steps, and documentation that supports decision-making.
+> Each repo aims to include: clear deliverables, reproducible steps, and documentation that supports decision making.
 
 ---
 
@@ -86,7 +79,7 @@ Objective: develop a scalable, warehouse-ready BI system focused on operational 
 **BI:** Power BI · Tableau  
 **Libraries:** Pandas · NumPy · Plotly · scikit-learn · Streamlit  
 **Platforms:** BigQuery · Snowflake · Azure SQL · Databricks  
-**Other:** Git/GitHub · Excel · GitHub Actions · Jira/DevOps
+**Other:** Git/GitHub · Excel · Jira/DevOps
 
 <!-- Compact badges -->
 <p>
@@ -112,7 +105,7 @@ Objective: develop a scalable, warehouse-ready BI system focused on operational 
 
 ## 🤝 Contact
 - 📧 **rafaelgiancarlo@gmail.com**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rafaelvasquez-dataanalyst/
-- 🌎 Open to **Business Analyst / Analytics Engineer** roles (LATAM remote / hybrid)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rafaelvasquezba
+- 🌎 Open to **Business Analyst / Technical Business Analyst** roles (LATAM remote / hybrid)
 
 <!-- Tip: add a Social Preview image in the repo settings (1200x400) for a clean banner. -->
