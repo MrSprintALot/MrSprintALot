@@ -1,102 +1,201 @@
 <!-- Top badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelvasquezba/)
-[![Email](https://img.shields.io/badge/Email-rafaelgiancarlo%40gmail.com-1?logo=gmail&logoColor=white&labelColor=EA4335&color=555)](mailto:rafaelgiancarlo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Repos-111?logo=github&logoColor=white)](https://github.com/MrSprintALot?tab=repositories)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rafaelvasquezba/)
+[![Email](https://img.shields.io/badge/Email-rafaelgiancarlo%40gmail.com-1?logo=gmail\&logoColor=white\&labelColor=EA4335\&color=555)](mailto:rafaelgiancarlo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Repos-111?logo=github\&logoColor=white)](https://github.com/MrSprintALot?tab=repositories)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-yes-2ea44f)
 
-# 👋 Hi, I'm Rafael Vasquez  
-**Senior Business Analyst | Power BI · SQL · Data Modeling · Decision Intelligence**
+# 👋 Hi, I'm Rafael Vasquez
 
-I design data solutions that help businesses understand performance, identify inefficiencies, and make better operational decisions.
+**Senior Business Analyst | Analytics · Automation · AI-Augmented Workflows**
 
-I specialize in turning fragmented data into structured models, defining clear KPIs, and delivering executive dashboards that highlight what’s going wrong and what to do next.
+I help organizations turn fragmented data into decisions.
 
-My work sits at the intersection of business and data: I don’t just build dashboards, I define the logic behind them.
+My work combines business analysis, analytics, process automation, and AI-assisted workflows to identify performance drivers, uncover inefficiencies, and deliver measurable business impact.
+
+Over the last 8+ years, I have worked across retail, operations, logistics, customer support, sales, and marketing, building KPI frameworks, executive dashboards, reporting automation, forecasting models, and decision-support systems.
+
+More recently, I have expanded into AI-assisted development, web scraping, API integrations, local LLM experimentation, and agentic workflows to accelerate solution delivery and reduce manual effort.
 
 ---
 
 ## 🏗️ Core Capabilities
 
-- Translating business problems into measurable KPIs and decision frameworks  
-- Designing dimensional models (star schema) for scalable analytics  
-- Building semantic layers and reusable metrics in Power BI  
-- Analyzing performance across operations, sales, and customer funnels  
-- Identifying root causes and quantifying business impact (cost, efficiency, risk)  
-- Bridging stakeholders and technical teams through data driven solutions  
+### Business Analysis
+
+* Translating business problems into measurable KPIs and decision frameworks
+* Identifying root causes and quantifying business impact
+* Process analysis and operational optimization
+* Stakeholder management and requirements gathering
+* Executive reporting and decision support
+
+### Analytics & BI
+
+* SQL analytics and KPI development
+* Dimensional modeling (star schema)
+* Semantic model design
+* Power BI dashboard development
+* Forecasting and trend analysis
+* Data quality validation
+
+### Automation & AI
+
+* AI-assisted development workflows
+* Agentic workflow design
+* Web scraping and data extraction
+* API integrations
+* LLM-powered automation
+* Local LLM experimentation
+* Human + AI analytics workflows
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚚 3PL Logistics SLA Performance Analytics — Power BI
+### 🇵🇪 Peru Election Analytics Platform
 
-Designed an end to end SLA performance monitoring solution to identify drivers of late deliveries and quantify their financial impact.
+Real-time election monitoring platform built using official ONPE data.
 
-**What I built:**  
-Star schema (6 tables) · 100+ DAX measures · 2-page executive dashboard for carrier, region, and service-level performance analysis  
+**Highlights**
 
-**Business impact:**  
-- Identified **$102K in SLA breach costs**  
-- Isolated **PumaCargo × Mexico (23.9%)** as the highest risk lane  
-- Estimated **~$45K in recoverable savings** by reaching SLA targets  
+* Real-time election tracking
+* Historical trend analysis
+* Regional vote visualization
+* Data validation layer
+* Forecasting and projection logic
+* Interactive dashboard
+* AI-assisted development workflow
 
-📊 **[View live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDIwNWJhNzgtYzc4Ni00MGM4LTlkYjgtZjljNTc3NjE2OWRlIiwidCI6ImU3NzBiMDUxLTI5ZjUtNDllYS1hNmQ1LTY1MDJmOWZhYjIyZSJ9)**  
-📦 **[Repository](https://github.com/MrSprintALot/3pl-sla-analytics)**
+**Skills Demonstrated**
+
+Data Analytics · APIs · Forecasting · Data Validation · Visualization · Product Thinking · Automation
+
+📊 Dashboard:
+https://mrsprintalot.github.io/Peru_Elecciones_2026_2da/
+
+📦 Repository:
+https://github.com/MrSprintALot/Peru_Elecciones_2026_2da
 
 ---
 
-### 🛒 E-Commerce Customer Support — CSAT & Response Time Analytics
+### 🚚 3PL Logistics SLA Performance Analytics
+
+Designed an end-to-end SLA performance monitoring solution to identify drivers of late deliveries and quantify financial impact.
+
+**Business Impact**
+
+* Identified $102K in SLA breach costs
+* Isolated highest-risk logistics lanes
+* Estimated ~$45K in recoverable savings opportunities
+
+**Tech**
+
+Power BI · DAX · Star Schema · KPI Design · Root Cause Analysis
+
+📦 Repository:
+https://github.com/MrSprintALot/3pl-sla-analytics
+
+---
+
+### 🛒 E-Commerce Customer Support Analytics
 
 Analyzed 85K+ support interactions to identify operational bottlenecks and drivers of customer dissatisfaction.
 
-**Focus:**  
-CSAT drivers · response time impact · SLA style monitoring · issue categorization  
+**Focus Areas**
 
-📦 **[Repository](https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-)**
+* CSAT analysis
+* Response-time impact
+* SLA monitoring
+* Issue categorization
+* Operational performance
 
----
-
-### 📣 Marketing Response Model — Predicting Offer Acceptance
-
-Built a classification model to prioritize customers with highest likelihood of conversion.
-
-**Results:**  
-AUC 0.895 · Accuracy 0.888 · Precision 0.707  
-
-📦 **[Repository](https://github.com/MrSprintALot/Marketing-Response-Model-)**
+📦 Repository:
+https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-
 
 ---
 
-### 🧹 Customer Data Cleaning & Preparation
+### 📣 Marketing Response Model
 
-Standardized raw datasets into analytics ready structures for reporting and modeling.
+Built a classification model to identify customers with the highest probability of accepting promotional offers.
 
-**Focus:**  
-Data profiling · missing values · normalization · validation rules  
+**Results**
 
-📦 **[Repository](https://github.com/MrSprintALot/Customer-Data-Cleaning-and-Preparation)**
+* AUC: 0.895
+* Accuracy: 0.888
+* Precision: 0.707
+
+**Tech**
+
+Python · Machine Learning · Feature Engineering · Predictive Analytics
+
+📦 Repository:
+https://github.com/MrSprintALot/Marketing-Response-Model-
 
 ---
 
-## 🧠 In One Line
+## 🤖 AI & Automation Experience
 
-> I identify what’s driving performance issues, quantify their impact, and turn that into clear business decisions.
+Recent areas of exploration and implementation:
+
+* Claude Code workflows (Opus)
+* AI-assisted software development
+* Prompt engineering
+* Agentic workflows
+* Web scraping pipelines
+* Local LLM experimentation
+* Rapid prototyping with AI tools
+* Human-in-the-loop validation frameworks
+
+I view AI as a force multiplier, not a replacement for business understanding, analytical thinking, or domain expertise.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Analytics:** SQL · Python · DAX  
-**Modeling:** Star schema · Semantic models · Power Query  
-**BI:** Power BI · Tableau · Streamlit  
-**Libraries:** Pandas · NumPy · scikit-learn  
-**Platforms:** BigQuery · Snowflake · Azure SQL · Databricks  
-**Other:** Git/GitHub · Figma · Jira  
+### Analytics
+
+SQL · Python · DAX · Excel
+
+### BI & Visualization
+
+Power BI · Tableau · Streamlit
+
+### Data Platforms
+
+BigQuery · Snowflake · Azure SQL · Databricks
+
+### Data Engineering
+
+Power Query · APIs · Web Scraping · ETL
+
+### AI & Automation
+
+Claude Code · Prompt Engineering · Agentic Workflows · Local LLMs
+
+### Development
+
+Git · GitHub · GitHub Actions
+
+---
+
+## 🧠 In One Line
+
+> I identify what's driving performance issues, quantify business impact, and build data and AI-powered solutions that help organizations make better decisions.
 
 ---
 
 ## 🤝 Contact
 
-📧 rafaelgiancarlo@gmail.com  
-💼 [linkedin.com/in/rafaelvasquezba](https://www.linkedin.com/in/rafaelvasquezba)  
-🌎 Open to **Senior Business Analyst / Technical Business Analyst** roles — Remote (LATAM / US)
+📧 [rafaelgiancarlo@gmail.com](mailto:rafaelgiancarlo@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/rafaelvasquezba
+
+🌎 Open to:
+
+* Senior Business Analyst
+* Technical Business Analyst
+* Business Intelligence Analyst
+* Data Analyst
+
+Remote (LATAM / US / Europe)
