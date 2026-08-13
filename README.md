@@ -1,69 +1,216 @@
+# GitHub Profile README
+
 <!-- Top badges -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rafaelvasquezba/)
 [![Email](https://img.shields.io/badge/Email-rafaelgiancarlo%40gmail.com-1?logo=gmail\&logoColor=white\&labelColor=EA4335\&color=555)](mailto:rafaelgiancarlo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Repos-111?logo=github\&logoColor=white)](https://github.com/MrSprintALot?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Repositories-111?logo=github\&logoColor=white)](https://github.com/MrSprintALot?tab=repositories)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-yes-2ea44f)
 
 # 👋 Hi, I'm Rafael Vasquez
 
-**Senior Business Analyst | Analytics · Automation · AI-Augmented Workflows**
+**Data & Business Analyst | Behavioral Analytics · Experimentation · Measurement**
 
-I help organizations turn fragmented data into decisions.
+I turn business questions and behavioral data into measurable insights, clear recommendations, and better decisions.
 
-My work combines business analysis, analytics, process automation, and AI-assisted workflows to identify performance drivers, uncover inefficiencies, and deliver measurable business impact.
+My background combines **business analysis, SQL-driven analytics, KPI and measurement frameworks, data quality, behavioral analysis, and stakeholder-facing work** across digital media, retail, marketing, banking, logistics, and customer experience.
 
-Over the last 8+ years, I have worked across retail, operations, logistics, customer support, sales, and marketing, building KPI frameworks, executive dashboards, reporting automation, forecasting models, and decision-support systems.
+More recently, my work has focused on **audience behavior, retention and drop-off analysis, event-impact measurement, conversion funnels, data-quality validation, and recurring analytics products** built from multi-source digital datasets.
 
-More recently, I have expanded into AI-assisted development, web scraping, API integrations, local LLM experimentation, and agentic workflows to accelerate solution delivery and reduce manual effort.
+---
+
+## 🎯 Current Analytics Focus
+
+### Behavioral & Growth Analytics
+
+* Audience and user behavior analysis over time
+* Retention, drop-off, engagement, and performance-driver analysis
+* Funnel and conversion measurement
+* Customer segmentation and cohort analysis
+* Behavioral time-series analysis
+* Turning behavioral patterns into actionable recommendations
+
+### Experimentation & Measurement
+
+* Hypothesis-driven analysis
+* A/B testing and commercial experimentation
+* KPI design and measurement frameworks
+* Primary success metrics and guardrail thinking
+* Statistical significance and confidence intervals
+* Before / during / after event-impact analysis
+* Business significance vs. statistical significance
+* Separating correlation from causal claims when evidence is limited
+
+### Business & Stakeholder Analytics
+
+* Translating ambiguous business questions into measurable analytical problems
+* Discovery sessions and requirements clarification
+* Stakeholder alignment across technical and non-technical teams
+* Executive and operational reporting
+* Data storytelling and recommendation development
+* Converting analysis into clear next actions
+
+---
+
+## 📡 Current Work: Audience & Event-Impact Analytics
+
+I currently work with multi-platform digital audience, engagement, and commercial data, combining analytics with hands-on data operations.
+
+Recent work includes:
+
+* Built a repeatable **event-impact analysis methodology** combining timestamped video-event logs with 5-minute audience time series to quantify retention, growth, and drop-off around specific broadcast moments.
+* Analyze recurring audience behavior, engagement patterns, content performance, and competitive benchmarks across major esports broadcasts.
+* Translate detailed time-series findings into concise **finding → implication → action** recommendations for production, operations, commercial teams, and leadership.
+* Designed **conversion-funnel tracking models** connecting social and campaign activity to downstream registration and deposit events.
+* Work with bettor and acquisition data to analyze registrations, deposits, churn, conversion windows, and post-event behavior.
+* Diagnose attribution and data-quality issues, validate SQL transformations, and reconcile KPI outputs before they reach stakeholders.
+* Work across analytics pipelines, PostgreSQL, APIs, external data sources, and BI outputs rather than only consuming finished dashboards.
+* Contribute to recurring analytics products covering audience, competitors, subscriptions, engagement, monetization, and commercial performance.
+
+---
+
+## 🧪 Experimentation Experience
+
+My experimentation background combines direct commercial A/B testing with structured behavioral measurement.
+
+One example from retail involved comparing **financing vs. discount offers** to assess customer response and support commercial decision-making.
+
+My general approach is:
+
+**Business question → hypothesis → success metric → guardrails → data validation → analysis → interpretation → business action**
+
+I focus not only on whether a measured difference exists, but also on whether the effect is meaningful enough to influence a real business decision.
 
 ---
 
 ## 🏗️ Core Capabilities
 
-### Business Analysis
+### Analytics
 
-* Translating business problems into measurable KPIs and decision frameworks
-* Identifying root causes and quantifying business impact
-* Process analysis and operational optimization
-* Stakeholder management and requirements gathering
-* Executive reporting and decision support
+* SQL analytics — CTEs, window functions, joins, aggregations, subqueries
+* Time-series and behavioral analysis
+* Python — Pandas, Scikit-learn
+* Funnel and cohort analysis
+* Customer segmentation
+* Root-cause and performance-driver analysis
+* KPI development
+* Data validation and reconciliation
 
-### Analytics & BI
+### BI & Measurement
 
-* SQL analytics and KPI development
-* Dimensional modeling (star schema)
+* Power BI
+* DAX
+* Power Query
+* Looker Studio
+* KPI and measurement frameworks
+* Dimensional modeling
 * Semantic model design
-* Power BI dashboard development
-* Forecasting and trend analysis
-* Data quality validation
+* Executive dashboards
+* Self-service analytics
+* Data storytelling
 
-### Automation & AI
+### Data & Analytics Operations
 
-* AI-assisted development workflows
-* Agentic workflow design
-* Web scraping and data extraction
-* API integrations
-* LLM-powered automation
-* Local LLM experimentation
-* Human + AI analytics workflows
+* ETL / ELT workflows
+* PostgreSQL
+* BigQuery
+* Azure SQL
+* REST APIs
+* External-data integrations
+* Web scraping
+* Data lineage
+* Data documentation
+* Data-quality controls
+* Operational troubleshooting
+
+### Stakeholder & Business Analysis
+
+* Discovery facilitation
+* Requirements gathering
+* KPI definition
+* Stakeholder workshops
+* Cross-functional collaboration
+* Executive reporting
+* Commercial analytics
+* Decision-support analysis
 
 ---
 
 ## 🚀 Featured Projects
 
+### 📣 Marketing Response Model
+
+Built a classification model to identify customers with the highest probability of accepting promotional offers and translate behavioral patterns into targeting decisions.
+
+**Results**
+
+* AUC: 0.895
+* Accuracy: 0.888
+* Precision: 0.707
+
+**Skills Demonstrated**
+
+Customer Segmentation · Behavioral Analytics · Python · Scikit-learn · SQL · Predictive Analytics
+
+📦 Repository:
+https://github.com/MrSprintALot/Marketing-Response-Model-
+
+---
+
+### 🛒 E-Commerce Customer Support Analytics
+
+Analyzed **85K+ customer support interactions** to identify operational bottlenecks and drivers of dissatisfaction.
+
+**Focus Areas**
+
+* CSAT analysis
+* Customer behavior
+* Response-time impact
+* SLA performance
+* Issue categorization
+* Operational bottlenecks
+* Actionable recommendations
+
+**Skills Demonstrated**
+
+SQL · Python · Power BI · Behavioral Analysis · Root Cause Analysis · KPI Design
+
+📦 Repository:
+https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-
+
+---
+
+### 🚚 3PL Logistics SLA Performance Analytics
+
+Designed an end-to-end SLA performance monitoring solution to identify drivers of late deliveries and quantify financial impact.
+
+**Business Impact**
+
+* Identified **$102K+ in SLA breach-related costs**
+* Isolated high-risk carrier and regional combinations
+* Estimated approximately **$45K/year in recoverable savings opportunities**
+
+**Skills Demonstrated**
+
+Power BI · DAX · Star Schema · KPI Design · Root Cause Analysis · Executive Storytelling
+
+📦 Repository:
+https://github.com/MrSprintALot/3pl-sla-analytics
+
+---
+
 ### 🇵🇪 Peru Election Analytics Platform
 
-Real-time election monitoring platform built using official ONPE data.
+Built an interactive election analytics platform using official ONPE data.
 
 **Highlights**
 
-* Real-time election tracking
+* Election monitoring
 * Historical trend analysis
 * Regional vote visualization
-* Data validation layer
+* Data-validation layer
 * Forecasting and projection logic
-* Interactive dashboard
+* Interactive analytics interface
 * AI-assisted development workflow
 
 **Skills Demonstrated**
@@ -78,75 +225,26 @@ https://github.com/MrSprintALot/Peru_Elecciones_2026_2da
 
 ---
 
-### 🚚 3PL Logistics SLA Performance Analytics
+## 🤖 AI-Assisted Analytics
 
-Designed an end-to-end SLA performance monitoring solution to identify drivers of late deliveries and quantify financial impact.
+I use AI primarily as an accelerator for analytical and technical workflows rather than as a replacement for analytical judgment.
 
-**Business Impact**
+Recent applications include:
 
-* Identified $102K in SLA breach costs
-* Isolated highest-risk logistics lanes
-* Estimated ~$45K in recoverable savings opportunities
+* AI-assisted SQL and Python development
+* Video-event detection for behavioral analysis
+* Structured analytical workflows
+* Rapid prototyping
+* Data pipeline troubleshooting
+* Documentation acceleration
+* Research and hypothesis generation
+* Human-in-the-loop validation
 
-**Tech**
+A typical workflow is:
 
-Power BI · DAX · Star Schema · KPI Design · Root Cause Analysis
+**AI-assisted detection / generation → human validation → database measurement → analytical interpretation**
 
-📦 Repository:
-https://github.com/MrSprintALot/3pl-sla-analytics
-
----
-
-### 🛒 E-Commerce Customer Support Analytics
-
-Analyzed 85K+ support interactions to identify operational bottlenecks and drivers of customer dissatisfaction.
-
-**Focus Areas**
-
-* CSAT analysis
-* Response-time impact
-* SLA monitoring
-* Issue categorization
-* Operational performance
-
-📦 Repository:
-https://github.com/MrSprintALot/Ecommerce_Customer_Support_Analysis-
-
----
-
-### 📣 Marketing Response Model
-
-Built a classification model to identify customers with the highest probability of accepting promotional offers.
-
-**Results**
-
-* AUC: 0.895
-* Accuracy: 0.888
-* Precision: 0.707
-
-**Tech**
-
-Python · Machine Learning · Feature Engineering · Predictive Analytics
-
-📦 Repository:
-https://github.com/MrSprintALot/Marketing-Response-Model-
-
----
-
-## 🤖 AI & Automation Experience
-
-Recent areas of exploration and implementation:
-
-* Claude Code workflows (Opus)
-* AI-assisted software development
-* Prompt engineering
-* Agentic workflows
-* Web scraping pipelines
-* Local LLM experimentation
-* Rapid prototyping with AI tools
-* Human-in-the-loop validation frameworks
-
-I view AI as a force multiplier, not a replacement for business understanding, analytical thinking, or domain expertise.
+This keeps analytical conclusions grounded in validated data rather than model output alone.
 
 ---
 
@@ -154,23 +252,31 @@ I view AI as a force multiplier, not a replacement for business understanding, a
 
 ### Analytics
 
-SQL · Python · DAX · Excel
+SQL · Python · Pandas · Scikit-learn · DAX · Excel
+
+### Behavioral & Measurement
+
+A/B Testing · Funnel Analysis · Cohort Analysis · Segmentation · KPI Frameworks · Time-Series Analysis · Event-Impact Analysis
 
 ### BI & Visualization
 
-Power BI · Tableau · Streamlit
+Power BI · Tableau · Looker Studio · Streamlit
 
 ### Data Platforms
 
-BigQuery · Snowflake · Azure SQL · Databricks
+PostgreSQL · BigQuery · Snowflake · Azure SQL · Databricks
 
-### Data Engineering
+### Data Engineering & Integration
 
-Power Query · APIs · Web Scraping · ETL
+ETL / ELT · REST APIs · Web Scraping · Power Query · Data Validation · Data Lineage
 
-### AI & Automation
+### Cloud & Operations
 
-Claude Code · Prompt Engineering · Agentic Workflows · Local LLMs
+AWS exposure — RDS · EC2 · Lambda · IAM · EventBridge · CloudWatch
+
+### Automation & AI
+
+AI-Assisted Workflows · Prompt Engineering · Human-in-the-Loop Validation · Agentic Workflows
 
 ### Development
 
@@ -178,9 +284,15 @@ Git · GitHub · GitHub Actions
 
 ---
 
-## 🧠 In One Line
+## 🧠 How I Approach Analytics
 
-> I identify what's driving performance issues, quantify business impact, and build data and AI-powered solutions that help organizations make better decisions.
+I generally structure analytical problems as:
+
+> **Business Question → Measurement Framework → Data Validation → Analysis → Insight → Recommendation → Action**
+
+The goal is not simply to report what happened.
+
+The goal is to understand **why it happened, what matters, what can be tested or changed, and how the result should influence the next business decision.**
 
 ---
 
@@ -193,9 +305,12 @@ https://www.linkedin.com/in/rafaelvasquezba
 
 🌎 Open to:
 
+* Analytics Consultant
+* Product Analyst
+* Growth Analyst
+* Senior Data Analyst
 * Senior Business Analyst
 * Technical Business Analyst
 * Business Intelligence Analyst
-* Data Analyst
 
-Remote (LATAM / US / Europe)
+**Remote — LATAM / US / Europe**
